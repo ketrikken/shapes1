@@ -1,0 +1,22 @@
+Create A circle 50 50 50
+Create A circle 10 10 10
+
+Create VV quadrangle 3 120 120 200 200 200 120
+Rotate VV 0 360 2 300 200 0
+
+create B quadrangle 4 60 40 80 80 100 200 10 20 
+Rotate B 0 360 5 40 40 1 100 20 50
+
+Create C quadrangle 2 300 200 310 200
+Rotate C 0 360 5 300 200 0
+
+
+Create D quadrangle 4 315 215 325 225 320 210 320 225
+Rotate D 0 360 5 300 200 4 127 239 78
+
+create Z quadrangle 4 30 250 30 280 60 250 60 280
+draw Z 1 0 100 0
+
+shift Z 50 0 
+draw Z 1 0 100 0
+

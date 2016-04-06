@@ -1,0 +1,14 @@
+create A
+renamed A
+create VV
+Rotate VV
+create B
+Rotate B
+create C
+Rotate C
+create D
+Rotate D
+create Z
+Draw Z
+Shift Z
+Draw Z
